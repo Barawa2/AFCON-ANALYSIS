@@ -4,7 +4,9 @@
 ---
 This data analysis project aims to provide insights into one of the most prestigious tournaments in Africa. Analyzing past data from AFCON, we seek to uncover insights into player statistics, team performances and tournament trends.
 
-![AFCON Dashboard](https://github.com/Barawa2/AFCON-ANALYSIS/assets/167060021/1f774a7e-0772-45ef-9776-ed36317ca49f)
+
+![Afcon analysis dashboard](https://github.com/user-attachments/assets/24483d8b-0a84-421e-8dfa-671edf455818)
+
 
 
 ### Data Sources
